@@ -1,0 +1,1 @@
+I am trying to understand symbols in ruby better.  Here are my experiements
